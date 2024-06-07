@@ -39,9 +39,9 @@ Run the Python script:\
 python life_expectancy_predictor.py\
 Follow the prompts to enter the necessary data.
 
+## Demonstration
 ![1](https://github.com/dannyburrowes/life-expectancy-calculator/assets/130167847/54d949f3-cb19-447b-8434-e0a4049c2048)
 ![2](https://github.com/dannyburrowes/life-expectancy-calculator/assets/130167847/4b437350-68f3-4c3d-9eaa-198e78ef2fe8)
 ![3](https://github.com/dannyburrowes/life-expectancy-calculator/assets/130167847/a8aa8ddf-fec2-48e2-816c-cf9fe0ded45b)
 ![4](https://github.com/dannyburrowes/life-expectancy-calculator/assets/130167847/bdc89ae3-661a-41c8-b1c2-2690688dbd57)
 ![5](https://github.com/dannyburrowes/life-expectancy-calculator/assets/130167847/b75897e8-bba3-4b8d-895f-24a75a83c2a1)
-![6](https://github.com/dannyburrowes/life-expectancy-calculator/assets/130167847/0d7efae2-0f45-43b3-b7b2-10609c1b2712)
