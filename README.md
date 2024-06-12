@@ -9,7 +9,7 @@ Usage\
 Demonstration
 
 ## Introduction
-The WHO Life Expectancy Predictor uses a linear regression model to estimate the life expectancy of a person. Users can input various health and socio-economic factors to get a prediction. This project includes a Python script that prompts users for input and processes it to make predictions. The function utilises two different models: the best performing model and the minimal model. The best performing model has been trained on all of the available data to predict life expenctancy as accurately as possible, whereas the minimal model has not been trained on data that may include sensitive information. Data that we deemed to be "sensitive" included all financial and medical-related data.
+The WHO Life Expectancy Predictor uses a linear regression model to estimate the life expectancy of an individual. This project includes a Python script where users can input various health and socio-economic factors to get a prediction a life expenctancy prediction from the model. The function utilises two different models: the best performing model and the minimal model. The best performing model has been trained on all of the available data to predict life expenctancy as accurately as possible, whereas the minimal model has not been trained on data that may include sensitive information. Data that we deemed to be "sensitive" included all financial and medical-related data.
 
 ## Features
 Predict life expectancy based on user inputs.\
